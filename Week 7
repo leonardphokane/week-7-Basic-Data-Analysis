@@ -1,0 +1,8 @@
+# Findings and Observations
+print("\\nFindings and Observations:")
+print("1. The dataset contains X rows and Y columns.")
+print("2. The 'column_of_interest' shows a normal distribution with some skewness.")
+print("3. There are missing values in the following columns: [list of columns].")
+print("4. The boxplot indicates that 'numerical_column' varies significantly across different categories of 'categorical_column'.")
+print("5. The correlation matrix reveals strong correlations between [columns].")
+""")
